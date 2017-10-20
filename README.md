@@ -4,6 +4,7 @@ Ein inoffizielles Projekt, welches das Herunterladen der Vertretungsplandaten vo
 ## Softwareabhängigkeiten
 ### Firefox mit `geckodriver`
 [Firefox](https://getfirefox.com)
+
 Linux (getestet): [geckodriver](https://github.com/mozilla/geckodriver)
 
 ### Python 3
@@ -19,5 +20,4 @@ Oder aus der Paketquelle der Distribution
   - `url` entspricht der URL des Vertretungsplans in der *Stundenansicht*
   - `cookie_Klasse` entspricht dem Wert des Cookies `AuswahlKl` (unter Firefox: Vertretungsplan öffnen -> Klasse wählen -> SHIFT + F5 -> Tab `Storage` öffnen -> Cookie (URL) auswählen -> Wert von `AuswahlKl`)
   - `cookie_AbwahlKurs` entspricht dem Wert des Cookies `AbwahlKurseJG11`, wenn Kurse in den Websiteeinstellungen ausgewählt wurden
-3. Script ausführen (optional: output in Datei schreiben (Linux): `python download.py
- > output.txt`)
+3. Script ausführen (optional: output in Datei schreiben (Linux): `python download.py > output.txt`)
