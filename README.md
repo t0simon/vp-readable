@@ -21,3 +21,7 @@ Oder aus der Paketquelle der Distribution
   - `cookie_Klasse` entspricht dem Wert des Cookies `AuswahlKl` (unter Firefox: Vertretungsplan öffnen -> Klasse wählen -> SHIFT + F5 -> Tab `Storage` öffnen -> Cookie (URL) auswählen -> Wert von `AuswahlKl`)
   - `cookie_AbwahlKurs` entspricht dem Wert des Cookies `AbwahlKurseJG11`, wenn Kurse in den Websiteeinstellungen ausgewählt wurden
 3. Script ausführen (optional: output in Datei schreiben (Linux): `python download.py > output.txt`)
+
+## Lizenz
+
+Das Projekt steht unter der [MIT Lizenz](https://github.com/t0simon/vp-readable/blob/master/LICENSE).
