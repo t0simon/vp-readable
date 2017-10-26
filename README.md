@@ -1,5 +1,5 @@
 # vp-readable
-Ein inoffizielles Projekt, welches das Herunterladen der Vertretungsplandaten von "indiware mobil"-Plänen in eine maschinenlesbare Form (Verschachtelte Liste: Elternebene mit *Stunden*, Tochterebene mit den Informationen *Stunde, Fach, Lehrer_in, Raum*) ermöglicht.
+Ein inoffizielles Projekt, welches das Herunterladen der Vertretungsplandaten von "indiware mobil"-Plänen in eine maschinenlesbare Form (Verschachtelte Liste: Elternebene mit *Stunden*, Tochterebene mit den Informationen *Stunde, Fach, Lehrer_in, Raum, Anmerkungen*) ermöglicht.
 
 ## Softwareabhängigkeiten
 ### Firefox mit `geckodriver`
