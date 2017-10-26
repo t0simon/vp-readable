@@ -17,7 +17,7 @@ Linux: Chromium für das Skript im Chrome-Pfad zur verfügung stellen: `sudo ln 
 [Python 3](https://www.python.org/)
 
 ##### Module
-Selenium (lokal): `pip install --user selenium`
+[Selenium](http://www.seleniumhq.org/) (lokal): `pip install --user selenium`
 Oder aus der Paketquelle der Distribution
 
 ## Benutzung
