@@ -1,6 +1,6 @@
 # BENUTZUNG:
 #
-# python download.py "<AuswahlKl>" "<optional: AbwahlKurseJG11>"
+# python firefox_dl.py "<AuswahlKl>" "<optional: AbwahlKurseJG11>"
 # AuswahlKl: Inhalt des Cookies "AuswahlKl" (einsehbar unter Firefox: SHIFT + F5 -> Storage -> Cookies -> Value des Cookies 'AuswahlKl')
 # AbwahlKurseJG11: Inhalt des Cookies "AuswahlKl" (einsehbar unter Firefox: SHIFT + F5 -> Storage -> Cookies -> Value des Cookies 'AbwahlKurseJG11')
 
