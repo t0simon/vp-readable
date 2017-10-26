@@ -27,3 +27,6 @@ Oder aus der Paketquelle der Distribution
 ## Lizenz
 
 Das Projekt steht unter der [MIT Lizenz](https://github.com/t0simon/vp-readable/blob/master/LICENSE).
+
+## To do
+- Support für Chrome/Chromium Browser hinzufügen
